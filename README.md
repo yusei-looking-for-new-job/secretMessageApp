@@ -1,3 +1,3 @@
 # secretmessageアプリのフロントエンド(Flutter)のコードです
-lib配下をご覧ください
+lib配下をご覧ください。
 テストコードはtest配下にありますunitTest_test.dartをご覧ください
